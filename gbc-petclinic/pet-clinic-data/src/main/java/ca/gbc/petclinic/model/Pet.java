@@ -1,4 +1,4 @@
-package ca.gbc.comp3095.gbcpetclinic.model;
+package ca.gbc.petclinic.model;
 
 import java.time.LocalDate;
 
