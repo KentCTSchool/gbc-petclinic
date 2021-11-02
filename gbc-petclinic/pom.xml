@@ -14,7 +14,7 @@
     </parent>
     <groupId>ca.gbc.comp3095</groupId>
     <artifactId>gbc-petclinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.XX-SNAPSHOT</version>
     <name>gbc-petclinic</name>
     <description>gbc-petclinic</description>
     <properties>
